@@ -10,7 +10,7 @@ Mit dem download der Software stimmt der Nutzer der beigelegten Lizenz zu.
 License = Lizenz
 
 ## Bekannte Bugs
--
+- Keine
 
 ## Infos
 Der Sourcecode wird nicht herausgegeben!
