@@ -10,7 +10,7 @@ Mit dem download der Software stimmt der Nutzer der beigelegten Lizenz zu.
 License = Lizenz
 
 ## Bekannte Bugs
-- Keine
+- Cursor verschwindet manchmal unter Textfeldern
 
 ## Infos
 Der Sourcecode wird nicht herausgegeben!
