@@ -2,8 +2,8 @@
 Hier sind die aktuellsten Versionen des Support Managers verfügbar!
 
 ## BENÖTIGT:
-Windows 7, 8.x, 10 (x86, x64)
-[.NET Framework 4.7.2 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net472) (oft bereits installiert)
+- Windows 7, 8.x, 10 (x86, x64)
+- [.NET Framework 4.7.2 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net472) (oft bereits installiert)
 
 ## TOS
 Mit dem download der Software stimmt der Nutzer der beigelegten Lizenz zu.
